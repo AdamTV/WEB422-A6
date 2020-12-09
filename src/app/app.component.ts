@@ -6,6 +6,8 @@
 *
 * Name: ADAM STINZIANI      Student ID: 124521188       Date: 2020-11-30
 *
+* Online Link: https://awesome-heisenberg-55caaa.netlify.app/
+*
 ********************************************************************************/
 
 import { Component } from '@angular/core';
